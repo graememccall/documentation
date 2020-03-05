@@ -41,3 +41,14 @@ Other actions:
 •	Graeme to raise “CPU System Administrator access for All Computershare companies on TST on EquatePlus TST” permission on behalf of Ali & Duncan
 
 •	Graeme to confirm one way or another regarding URLs in EQ Network
+
+---
+
+Plans: http://intra.equateplus.net/display/GLOS/Plan
+
+Plan Types: http://intra.equateplus.net/display/EQPLUS/Plan+types+in+EquatePlus
+
+Vehicles: http://intra.equateplus.net/display/GLOS/Vehicle
+
+Allocations: http://intra.equateplus.net/display/EQPLUS/Allocation+Attributes
+
