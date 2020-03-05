@@ -25,6 +25,10 @@ Supporting reading material:
 
 •	http://intra.equateplus.net/display/IT/01-Participant+creation
 
+Database permissions:
+
+http://intra.equateplus.net/display/~TseMi/Database+Permissions
+
 •	http://intra.equateplus.net/display/EQPLUS/Participant+platform+overview+guide
 
 
